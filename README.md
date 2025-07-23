@@ -4,6 +4,6 @@ A simple Python-based GUI application to scrape comments from YouTube videos and
 ## How to run:
 1. Clone the repository.
 2. Install the required packages by running `pip install -r requirements.txt`.
-3. Run the script using `python gui_main.py`.
+3. Run the script using `python main.py`.
 
 --Make sure your chrome version 115+
